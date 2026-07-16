@@ -1,32 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Matheus-Tegon.visitor-badgee&color=green&style=flat-square" />
+<h1>Olá, sou o Matheus Tegon 👋</h1>
 
-- ### Olá, sou o Matheus Eduardo dos Santos Tegon 👋
-- 📫 Meu e-mail é: tegonmatheus@gmail.com;
-- 📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Araçatuba; 
-- 👜 Atualmente trabalho na empresa Pro4Tech como Full-Stack. Em projetos, utilizando ASP.Net Core para Back-End e para Front-End React/Vue;
- 
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
- 
-<p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Desenvolvedor+de+Software;2%2B+anos+de+experiência+em+código;Sempre+aprendendo+coisas+novas)]></a>
+<p><strong>Software Engineer | AI-Assisted Development | .NET • C# • React • Vue.js</strong></p>
+
+- 💼 FullStack Developer na **Pro4Tech** — aplicações corporativas com **.NET** no backend e **React/Vue.js** no frontend
+- 🤖 Desenvolvimento assistido por IA no dia a dia: **Azure OpenAI**, **OpenAI Codex** e **Claude**
+- 🧩 Atuo na definição técnica de soluções junto ao time de produto — priorização, refinamento e desenho de funcionalidades
+- 🎓 Análise e Desenvolvimento de Sistemas — FATEC Araçatuba
+- 📫 tegonmatheus@gmail.com
+
+### Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### IA & Produto
+
+`Azure OpenAI` · `OpenAI Codex` · `Claude` · `Prompt Engineering` · `LLM Integration` · `AI-Assisted Development` · `System Design` · `Análise de Requisitos`
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-tegon/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegonmatheus@gmail.com)
+
+### Estatísticas
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Tegon&show_icons=true&theme=dracula&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Tegon&layout=compact&langs_count=7&theme=dracula" height="165" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Desenvolvedor+de+Software;2%2B+anos+de+experiência+em+código;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
-<!---
-Matheus-Tegon/Tellaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### Ferramentas e Tecnologias:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/nolan/64/c-sharp-logo.png" width = "50" heigth = "50"/> <img width="50" height="50" src="https://img.icons8.com/officel/40/react.png"/> <img src="https://img.icons8.com/fluency/48/vuejs.png" width = "50" heigth = "50"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" width = "50" heigth = "50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/> 
-
-### Contatos:
-
-<a href="https://www.instagram.com/matheus_tegon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "tegonmatheus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-tegon-a95b8a1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
-
-<a href="https://github.com/Matheus-Tegon"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Tegon&layout=compact&langs_count=7&theme=dracula" />  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Tegon&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-
